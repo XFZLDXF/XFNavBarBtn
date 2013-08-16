@@ -4,7 +4,7 @@
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="2083"/>
     </dependencies>
     <scenes>
-        <!--View Controller - 新风作浪的主页 新风作浪-->
+        <!--View Controller - 新风作浪的主页 -->
         <scene sceneID="5">
             <objects>
                 <viewController id="2" customClass="ViewController" sceneMemberID="viewController">
@@ -13,7 +13,7 @@
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
-                    <navigationItem key="navigationItem" title="新风作浪的主页 新风作浪" id="oje-ev-LdJ">
+                    <navigationItem key="navigationItem" title="新风作浪的主页 " id="oje-ev-LdJ">
                         <barButtonItem key="leftBarButtonItem" title="Push" id="cs7-zv-9RY">
                             <connections>
                                 <action selector="pushVC:" destination="2" id="tyd-0Z-cZG"/>
